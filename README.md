@@ -13,7 +13,7 @@
 
 
 ### Hosted Project Link
-[mention your project hosted link here]
+https://focusiq.onrender.com
 
 ### Project Description
 **FocusIQ** is an AI-powered smart study planner website that analyzes a student’s study and distraction time to calculate a focus score. Based on the result, it generates a personalized timetable and visual performance graph to improve productivity. The platform uses a modern, interactive space-themed interface to enhance user engagement.
@@ -148,7 +148,7 @@ python script.py -v --format json data.json
 ## Project Demo
 
 ### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
+https://drive.google.com/file/d/1YDexlCVaMJEdOhL5SXMsUQpntGEQfOvC/view?usp=sharing
 
 *Explain what the video demonstrates - key features, user flow, technical highlights*
 
