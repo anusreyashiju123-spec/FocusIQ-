@@ -44,10 +44,10 @@ FocusIQ solves this problem by analyzing study hours and distraction time to cal
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: Focus Score Calculation – Analyzes study and distraction hours to generate a personalized focus score.
+- Feature 2: AI-Based Study Timetable – Automatically creates a timetable based on the user’s focus level (high, medium, low).
+- Feature 3: Skill-Level Adaptive Notes (Optional) – Summarizes study notes according to the learner’s skill level (beginner, intermediate, advanced).
+- Feature 4: Focus Analysis Graph – Visualizes study vs distraction hours using a dynamic chart.
 
 ---
 
